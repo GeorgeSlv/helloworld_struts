@@ -1,0 +1,1 @@
+http://localhost:8080/basic_struts/basicstruts2/index.action
